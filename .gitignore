@@ -1,4 +1,5 @@
 data/*
 info/*
-neg/*/.jpg
-pos/*/.jpg
+neg/*.jpg
+pos/*.jpg
+*.jpg
