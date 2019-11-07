@@ -17,4 +17,4 @@ To generate a cascade from multiple positive images, complete steps 1-4 listed a
 
 For each of the shell files, be sure to examine the openCV command and adjust the parameters according to your needs.
 
-The aimbot.py file screen_record function can be used with a generated cascade.xml. Rename your desired xml to 'target.xml' and place it in the same folder as aimbot.py. The provided file locates a training bot on the overwatch practice range, be sure to adjust the screen_height, screen_width, and sensitivity variables as needed.
+The aimbot.py file screen_record function can be used with a generated cascade.xml. Rename your desired xml to 'target.xml' and place it in the same folder as aimbot.py. The provided file locates a training bot on the overwatch practice range, be sure to adjust the screen_height, screen_width, and sensitivity variables as needed. A video demonstrating this project is available [here](https://youtu.be/l3g4nig_8Vg).
